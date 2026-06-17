@@ -2,91 +2,136 @@
   {
     "id": 1,
     "sport": "football",
-    "teams": "Барселона — Реал Мадрид",
-    "prediction": "Победа Барселоны",
-    "confidence": 78,
-    "coefficient": 1.85,
-    "analysis": "Барселона в отличной форме, Реал играет без ключевых защитников."
+    "teams": "Австрия — Иордания",
+    "prediction": "Победа Австрии",
+    "confidence": 81,
+    "coefficient": 1.60,
+    "analysis": "Австрия в отличной форме, Иордания впервые на ЧМ."
   },
   {
     "id": 2,
     "sport": "football",
-    "teams": "Манчестер Сити — Ливерпуль",
-    "prediction": "Тотал больше 2.5",
-    "confidence": 65,
-    "coefficient": 1.90,
-    "analysis": "Обе команды играют в атакующий футбол, ожидается высокая результативность."
+    "teams": "Аргентина — Алжир",
+    "prediction": "Победа Аргентины",
+    "confidence": 66,
+    "coefficient": 1.55,
+    "analysis": "Аргентина уверенно стартовала, Алжир слабее по составу."
   },
   {
     "id": 3,
-    "sport": "tennis",
-    "teams": "Джокович — Надаль",
-    "prediction": "Победа Джоковича",
+    "sport": "football",
+    "teams": "Португалия — ДР Конго",
+    "prediction": "Победа Португалии",
     "confidence": 70,
-    "coefficient": 2.10,
-    "analysis": "Джокович лучше адаптирован к покрытию, Надаль недавно восстановился после травмы."
+    "coefficient": 1.65,
+    "analysis": "Португалия фаворит, ДР Конго играет от обороны."
   },
   {
     "id": 4,
-    "sport": "tennis",
-    "teams": "Федерер — Медведев",
-    "prediction": "Победа Медведева",
-    "confidence": 60,
-    "coefficient": 1.95,
-    "analysis": "Медведев в хорошей форме, Федерер после долгого перерыва."
+    "sport": "football",
+    "teams": "Англия — Хорватия",
+    "prediction": "Победа Англии",
+    "confidence": 53,
+    "coefficient": 1.90,
+    "analysis": "Англия прагматична, Хорватия сосредоточена на защите."
   },
   {
     "id": 5,
-    "sport": "basketball",
-    "teams": "Лейкерс — Уорриорз",
-    "prediction": "Тотал больше 210.5",
-    "confidence": 72,
-    "coefficient": 1.95,
-    "analysis": "Обе команды играют в атакующий баскетбол, высокая результативность ожидаема."
+    "sport": "football",
+    "teams": "Гана — Панама",
+    "prediction": "Победа Панамы",
+    "confidence": 53,
+    "coefficient": 2.10,
+    "analysis": "Панама стабильна, Гана нестабильна в атаке."
   },
   {
     "id": 6,
     "sport": "basketball",
-    "teams": "Чикаго Буллз — Бостон Селтикс",
-    "prediction": "Победа Селтикс",
-    "confidence": 68,
-    "coefficient": 1.80,
-    "analysis": "Селтикс показывают стабильную игру в защите и нападении."
+    "teams": "Alba Berlin — Bayern",
+    "prediction": "Победа Bayern",
+    "confidence": 55,
+    "coefficient": 1.85,
+    "analysis": "Bayern сильнее в атаке, Alba нестабильна."
   },
   {
     "id": 7,
-    "sport": "football",
-    "teams": "Ювентус — Милан",
-    "prediction": "Обе забьют",
-    "confidence": 62,
-    "coefficient": 1.75,
-    "analysis": "Обе команды имеют сильную атаку, ожидаются голы с обеих сторон."
+    "sport": "basketball",
+    "teams": "Paris — Monaco",
+    "prediction": "Победа Monaco",
+    "confidence": 60,
+    "coefficient": 1.80,
+    "analysis": "Monaco показывает стабильную игру в Евролиге."
   },
   {
     "id": 8,
-    "sport": "football",
-    "teams": "Челси — Арсенал",
-    "prediction": "Победа Челси",
-    "confidence": 55,
-    "coefficient": 2.05,
-    "analysis": "Челси играет дома, Арсенал нестабилен в последних матчах."
+    "sport": "basketball",
+    "teams": "Besiktas — Fenerbahce",
+    "prediction": "Победа Fenerbahce",
+    "confidence": 58,
+    "coefficient": 1.88,
+    "analysis": "Fenerbahce лучше в защите, Besiktas нестабилен."
   },
   {
     "id": 9,
-    "sport": "tennis",
-    "teams": "Зверев — Циципас",
-    "prediction": "Победа Циципаса",
-    "confidence": 58,
-    "coefficient": 2.20,
-    "analysis": "Циципас лучше играет на этом покрытии, Зверев допускает много ошибок."
+    "sport": "basketball",
+    "teams": "Edmonton Stingers — Montreal Alliance",
+    "prediction": "Победа Stingers",
+    "confidence": 62,
+    "coefficient": 1.75,
+    "analysis": "Stingers в серии побед, Alliance слабее по составу."
   },
   {
     "id": 10,
     "sport": "basketball",
-    "teams": "Майами Хит — Нью-Йорк Никс",
-    "prediction": "Победа Хит",
-    "confidence": 66,
+    "teams": "Alligators — Tigers",
+    "prediction": "Победа Tigers",
+    "confidence": 52,
     "coefficient": 1.88,
-    "analysis": "Хит в серии побед, Никс испытывают проблемы с составом."
+    "analysis": "Обе команды равны, но Tigers чуть сильнее."
+  },
+  {
+    "id": 11,
+    "sport": "tennis",
+    "teams": "Соболенко — Александрова",
+    "prediction": "Победа Соболенко",
+    "confidence": 78,
+    "coefficient": 1.12,
+    "analysis": "Соболенко в топ‑форме, Александрова нестабильна."
+  },
+  {
+    "id": 12,
+    "sport": "tennis",
+    "teams": "Хуркач — Альтмайер",
+    "prediction": "Победа Хуркача",
+    "confidence": 72,
+    "coefficient": 1.26,
+    "analysis": "Хуркач уверенно играет на траве, Альтмайер слабее."
+  },
+  {
+    "id": 13,
+    "sport": "tennis",
+    "teams": "Атман — Медведев",
+    "prediction": "Победа Медведева",
+    "confidence": 75,
+    "coefficient": 1.17,
+    "analysis": "Медведев силён на траве, Атман аутсайдер."
+  },
+  {
+    "id": 14,
+    "sport": "tennis",
+    "teams": "Макдональд — Мочизуки",
+    "prediction": "Победа Макдональда",
+    "confidence": 65,
+    "coefficient": 1.70,
+    "analysis": "Макдональд стабилен, Мочизуки допускает ошибки."
+  },
+  {
+    "id": 15,
+    "sport": "tennis",
+    "teams": "Векич — Эала",
+    "prediction": "Победа Векич",
+    "confidence": 68,
+    "coefficient": 1.85,
+    "analysis": "Векич опытнее, Эала только набирает форму."
   }
 ]
