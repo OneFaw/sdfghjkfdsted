@@ -1,46 +1,25 @@
 [
   {
-    "id": 101,
+    "id": 301,
     "sport": "football",
-    "teams": "Real Madrid vs Barcelona",
-    "prediction": "Обе команды забьют",
-    "confidence": "Высокая",
+    "teams": "Chelsea vs Liverpool",
+    "prediction": "Победа Челси",
+    "confidence": 72,
     "coefficient": 1.85,
-    "analysis": "Классико всегда результативное, обе команды в хорошей форме.",
-    "date": "2026-06-20",
-    "time": "21:00"
-  },
-  {
-    "id": 102,
-    "sport": "tennis",
-    "teams": "Djokovic vs Nadal",
-    "prediction": "Победа Джоковича",
-    "confidence": "Средняя",
-    "coefficient": 2.10,
-    "analysis": "Джокович лучше играет на этом покрытии, но матч ожидается напряжённый.",
-    "date": "2026-06-21",
-    "time": "18:30"
-  },
-  {
-    "id": 103,
-    "sport": "basketball",
-    "teams": "Lakers vs Celtics",
-    "prediction": "Тотал больше 210.5",
-    "confidence": "Высокая",
-    "coefficient": 1.95,
-    "analysis": "Обе команды играют в атакующий баскетбол, ожидается высокая результативность.",
-    "date": "2026-06-22",
-    "time": "03:00"
-  },
-  {
-    "id": 104,
-    "sport": "football",
-    "teams": "Manchester City vs Arsenal",
-    "prediction": "Победа Манчестер Сити",
-    "confidence": "Высокая",
-    "coefficient": 1.70,
-    "analysis": "Сити в отличной форме, Арсенал часто ошибается в обороне.",
-    "date": "2026-06-23",
+    "analysis": "Челси в хорошей форме, Ливерпуль часто пропускает.",
+    "date": "2026-06-26",
     "time": "20:00"
+  },
+  {
+    "id": 302,
+    "sport": "basketball",
+    "teams": "Warriors vs Heat",
+    "prediction": "Тотал больше 215.5",
+    "confidence": 60,
+    "coefficient": 1.95,
+    "analysis": "Обе команды играют в атакующий баскетбол.",
+    "date": "2026-06-27",
+    "time": "02:00"
   }
 ]
+
