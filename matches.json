@@ -1,35 +1,39 @@
 [
   {
-    "id": 101,
+    "id": 1,
     "sport": "football",
-    "teams": "PSG vs Bayern",
-    "prediction": "Обе команды забьют",
-    "confidence": 75,
-    "coefficient": 1.90,
-    "analysis": "Обе команды играют в атакующий футбол, высокая вероятность голов.",
-    "date": "2026-06-24",
-    "time": "22:00"
-  },
-  {
-    "id": 102,
-    "sport": "tennis",
-    "teams": "Djokovic vs Alcaraz",
-    "prediction": "Победа Джоковича",
-    "confidence": 68,
-    "coefficient": 1.70,
-    "analysis": "Джокович опытнее на харде, у него преимущество.",
-    "date": "2026-06-25",
-    "time": "18:00"
-  },
-  {
-    "id": 103,
-    "sport": "basketball",
-    "teams": "Lakers vs Celtics",
-    "prediction": "Тотал больше 210.5",
-    "confidence": 72,
+    "teams": "Барселона vs Реал",
+    "prediction": "Победа Барселоны",
+    "confidence": 70,
     "coefficient": 1.85,
-    "analysis": "Обе команды играют в атакующий баскетбол.",
-    "date": "2026-06-26",
-    "time": "03:00"
+    "analysis": "Барселона играет дома, Реал устал после ЛЧ.",
+    "date": "2026-06-20",
+    "time": "21:00",
+    "isPremium": false
+  },
+  {
+    "id": 2,
+    "sport": "football",
+    "teams": "МЮ vs Ливерпуль",
+    "prediction": "Ничья",
+    "confidence": 60,
+    "coefficient": 2.10,
+    "analysis": "Ожидается напряжённый матч, возможен ничейный исход.",
+    "date": "2026-06-21",
+    "time": "19:00",
+    "isPremium": true
+  },
+  {
+    "id": 3,
+    "sport": "tennis",
+    "teams": "Джокович vs Надаль",
+    "prediction": "Победа Джоковича",
+    "confidence": 65,
+    "coefficient": 1.95,
+    "analysis": "Джокович в хорошей форме, Надаль восстанавливается.",
+    "date": "2026-06-22",
+    "time": "17:00",
+    "isPremium": true
   }
 ]
+
