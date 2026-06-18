@@ -2,10 +2,10 @@
   {
     "id": 201,
     "sport": "football",
-    "events": ["Real Madrid vs Barcelona", "Chelsea vs Arsenal"],
+    "teams": "Real Madrid vs Barcelona + Chelsea vs Arsenal",
     "prediction": "Обе команды забьют в обоих матчах",
     "confidence": 72,
-    "eventCoefficients": [1.80, 1.90],
+    "coefficient": 3.40,
     "analysis": "Классико традиционно результативное, а Челси и Арсенал активно играют в атаке.",
     "date": "2026-07-01",
     "time": "20:00"
@@ -13,10 +13,10 @@
   {
     "id": 202,
     "sport": "tennis",
-    "events": ["Djokovic vs Nadal", "Medvedev vs Zverev"],
+    "teams": "Djokovic vs Nadal + Medvedev vs Zverev",
     "prediction": "Победа Джоковича и победа Медведева",
     "confidence": 65,
-    "eventCoefficients": [1.60, 2.10],
+    "coefficient": 4.20,
     "analysis": "Джокович стабилен на харде, Медведев уверенно играет против Зверева.",
     "date": "2026-07-02",
     "time": "18:00"
@@ -24,10 +24,10 @@
   {
     "id": 203,
     "sport": "basketball",
-    "events": ["Lakers vs Celtics", "Warriors vs Heat", "Bulls vs Knicks"],
-    "prediction": "Тотал больше 210.5 во всех матчах",
+    "teams": "Lakers vs Celtics + Warriors vs Heat",
+    "prediction": "Тотал больше 210.5 в обоих матчах",
     "confidence": 55,
-    "eventCoefficients": [1.85, 1.95, 2.00],
+    "coefficient": 2.90,
     "analysis": "Все команды играют в атакующий баскетбол, ожидается высокая результативность.",
     "date": "2026-07-03",
     "time": "03:00"
