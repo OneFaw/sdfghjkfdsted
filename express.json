@@ -1,16 +1,46 @@
 [
   {
+    "id": 101,
     "sport": "football",
-    "team1": "Real Madrid",
-    "team2": "Barcelona",
+    "teams": "Real Madrid vs Barcelona",
+    "prediction": "Обе команды забьют",
+    "confidence": "Высокая",
+    "coefficient": 1.85,
+    "analysis": "Классико всегда результативное, обе команды в хорошей форме.",
     "date": "2026-06-20",
-    "analysis": "Ожидается напряжённый матч, высокая вероятность голов."
+    "time": "21:00"
   },
   {
+    "id": 102,
     "sport": "tennis",
-    "team1": "Djokovic",
-    "team2": "Nadal",
+    "teams": "Djokovic vs Nadal",
+    "prediction": "Победа Джоковича",
+    "confidence": "Средняя",
+    "coefficient": 2.10,
+    "analysis": "Джокович лучше играет на этом покрытии, но матч ожидается напряжённый.",
     "date": "2026-06-21",
-    "analysis": "Финал турнира, равные шансы."
+    "time": "18:30"
+  },
+  {
+    "id": 103,
+    "sport": "basketball",
+    "teams": "Lakers vs Celtics",
+    "prediction": "Тотал больше 210.5",
+    "confidence": "Высокая",
+    "coefficient": 1.95,
+    "analysis": "Обе команды играют в атакующий баскетбол, ожидается высокая результативность.",
+    "date": "2026-06-22",
+    "time": "03:00"
+  },
+  {
+    "id": 104,
+    "sport": "football",
+    "teams": "Manchester City vs Arsenal",
+    "prediction": "Победа Манчестер Сити",
+    "confidence": "Высокая",
+    "coefficient": 1.70,
+    "analysis": "Сити в отличной форме, Арсенал часто ошибается в обороне.",
+    "date": "2026-06-23",
+    "time": "20:00"
   }
 ]
