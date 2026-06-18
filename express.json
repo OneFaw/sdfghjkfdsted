@@ -1,0 +1,16 @@
+[
+  {
+    "sport": "football",
+    "team1": "Real Madrid",
+    "team2": "Barcelona",
+    "date": "2026-06-20",
+    "analysis": "Ожидается напряжённый матч, высокая вероятность голов."
+  },
+  {
+    "sport": "tennis",
+    "team1": "Djokovic",
+    "team2": "Nadal",
+    "date": "2026-06-21",
+    "analysis": "Финал турнира, равные шансы."
+  }
+]
