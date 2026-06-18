@@ -1,25 +1,58 @@
 [
   {
-    "id": 301,
+    "id": 501,
     "sport": "football",
-    "teams": "Chelsea vs Liverpool",
-    "prediction": "Победа Челси",
-    "confidence": 72,
-    "coefficient": 1.85,
-    "analysis": "Челси в хорошей форме, Ливерпуль часто пропускает.",
-    "date": "2026-06-26",
+    "teams": "Real Madrid vs Barcelona + Chelsea vs Arsenal",
+    "prediction": "Обе команды забьют в обоих матчах",
+    "confidence": 70,
+    "coefficient": 3.20,
+    "analysis": "Классико всегда результативное, а в матче Челси–Арсенал обе команды активно атакуют.",
+    "date": "2026-06-24",
     "time": "20:00"
   },
   {
-    "id": 302,
+    "id": 502,
+    "sport": "tennis",
+    "teams": "Djokovic vs Nadal + Medvedev vs Zverev",
+    "prediction": "Победа Джоковича и Медведева",
+    "confidence": 65,
+    "coefficient": 4.10,
+    "analysis": "Джокович стабилен на харде, Медведев уверенно играет против Зверева.",
+    "date": "2026-06-25",
+    "time": "18:00"
+  },
+  {
+    "id": 503,
     "sport": "basketball",
-    "teams": "Warriors vs Heat",
-    "prediction": "Тотал больше 215.5",
+    "teams": "Lakers vs Celtics + Warriors vs Heat",
+    "prediction": "Тотал больше 210.5 в обоих матчах",
+    "confidence": 75,
+    "coefficient": 2.80,
+    "analysis": "Все команды играют в атакующий баскетбол, ожидается высокая результативность.",
+    "date": "2026-06-26",
+    "time": "03:00"
+  },
+  {
+    "id": 504,
+    "sport": "mixed",
+    "teams": "PSG vs Bayern (футбол) + Djokovic vs Alcaraz (теннис)",
+    "prediction": "Победа PSG и победа Джоковича",
     "confidence": 60,
-    "coefficient": 1.95,
-    "analysis": "Обе команды играют в атакующий баскетбол.",
+    "coefficient": 5.00,
+    "analysis": "PSG в отличной форме, Джокович опытнее на этом покрытии.",
     "date": "2026-06-27",
-    "time": "02:00"
+    "time": "21:00"
+  },
+  {
+    "id": 505,
+    "sport": "football",
+    "teams": "Manchester City vs Liverpool + Juventus vs Milan",
+    "prediction": "Победа Манчестер Сити и ничья в матче Ювентус–Милан",
+    "confidence": 68,
+    "coefficient": 6.20,
+    "analysis": "Сити доминирует в лиге, а Ювентус и Милан часто играют вничью.",
+    "date": "2026-06-28",
+    "time": "19:00"
   }
 ]
 
