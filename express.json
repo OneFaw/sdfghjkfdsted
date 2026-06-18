@@ -1,1 +1,58 @@
+[
+  {
+    "id": 601,
+    "sport": "football",
+    "teams": "Real Madrid vs Barcelona + Chelsea vs Arsenal",
+    "prediction": "Обе команды забьют в обоих матчах",
+    "confidence": 72,
+    "coefficient": 3.40,
+    "analysis": "Классико традиционно результативное, а Челси и Арсенал активно играют в атаке.",
+    "date": "2026-07-01",
+    "time": "20:00"
+  },
+  {
+    "id": 602,
+    "sport": "tennis",
+    "teams": "Djokovic vs Nadal + Medvedev vs Zverev",
+    "prediction": "Победа Джоковича и победа Медведева",
+    "confidence": 65,
+    "coefficient": 4.20,
+    "analysis": "Джокович стабилен на харде, Медведев уверенно играет против Зверева.",
+    "date": "2026-07-02",
+    "time": "18:00"
+  },
+  {
+    "id": 603,
+    "sport": "basketball",
+    "teams": "Lakers vs Celtics + Warriors vs Heat",
+    "prediction": "Тотал больше 210.5 в обоих матчах",
+    "confidence": 75,
+    "coefficient": 2.90,
+    "analysis": "Все команды играют в атакующий баскетбол, ожидается высокая результативность.",
+    "date": "2026-07-03",
+    "time": "03:00"
+  },
+  {
+    "id": 604,
+    "sport": "mixed",
+    "teams": "PSG vs Bayern (футбол) + Djokovic vs Alcaraz (теннис)",
+    "prediction": "Победа PSG и победа Джоковича",
+    "confidence": 60,
+    "coefficient": 5.10,
+    "analysis": "PSG в отличной форме, Джокович опытнее на этом покрытии.",
+    "date": "2026-07-04",
+    "time": "21:00"
+  },
+  {
+    "id": 605,
+    "sport": "football",
+    "teams": "Manchester City vs Liverpool + Juventus vs Milan",
+    "prediction": "Победа Манчестер Сити и ничья в матче Ювентус–Милан",
+    "confidence": 68,
+    "coefficient": 6.30,
+    "analysis": "Сити доминирует в лиге, а Ювентус и Милан часто играют вничью.",
+    "date": "2026-07-05",
+    "time": "19:00"
+  }
+]
 
